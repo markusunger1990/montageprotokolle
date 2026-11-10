@@ -10,7 +10,7 @@
 - Lisa Peitzmeier – Adresse unbekannt – Auftrag S07976 (Tür); Nachmontage offen: korrekte Tür/Farbe nachbestellen
 
 ## Vorlieben / Korrekturen des Nutzers
-- Auftragsnummer IMMER: "S" + Ziffern, OHNE Bindestrich (z. B. S123456). Diktiertes "S07976" → S07976
+- Auftragsnummer IMMER: "S" + Ziffern, OHNE Bindestrich (z. B. S123456). Diktiert mit Bindestrich (z. B. "S079-76") → Bindestrich weglassen (S07976)
 - Projektname aus Kunde + Gewerk ableiten
 
 ## Montage-Liste (Datum | Kunde | Auftragsnr. | Datei)
