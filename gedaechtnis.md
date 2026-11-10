@@ -7,10 +7,11 @@
 ## Kollegen
 
 ## Kunden (Name – Adresse – Notizen)
-- Lisa Peitzmeier – Adresse unbekannt – Auftrag S079-76 (Tür); Nachmontage offen: korrekte Tür/Farbe nachbestellen
+- Lisa Peitzmeier – Adresse unbekannt – Auftrag S07976 (Tür); Nachmontage offen: korrekte Tür/Farbe nachbestellen
 
 ## Vorlieben / Korrekturen des Nutzers
-- Auftragsnummern im Format S079-76; Projektname aus Kunde + Gewerk ableiten
+- Auftragsnummer IMMER: "S" + Ziffern, OHNE Bindestrich (z. B. S123456). Diktiertes "S07976" → S07976
+- Projektname aus Kunde + Gewerk ableiten
 
 ## Montage-Liste (Datum | Kunde | Auftragsnr. | Datei)
-- 10.11.2026 | Peitzmeier | S079-76 | 2026-11-10_Peitzmeier – ABGEBROCHEN (falsche Türfarbe, Fehler Vertrieb)
+- 10.11.2026 | Peitzmeier | S07976 | 2026-11-10_Peitzmeier – ABGEBROCHEN (falsche Türfarbe, Fehler Vertrieb)
