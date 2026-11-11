@@ -8,7 +8,6 @@
 
 ## Kunden (Name – Adresse – Notizen)
 - Lisa Peitzmeier – Adresse unbekannt – Auftrag S07976 (Tür); Nachmontage offen: korrekte Tür/Farbe nachbestellen
-
 - Alexander Philips – Bielefeld – Auftrag S01946 (Schiebetür mit Festelement 2,70x2,60 m); Restarbeiten offen nach Treppenbau
 
 ## Vorlieben / Korrekturen des Nutzers
